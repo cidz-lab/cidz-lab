@@ -1,6 +1,7 @@
 DDOS HAMMER
 
 *Termux command :
+
 pkg update && pkg upgrade
 
 pkg install git && pkg install python
