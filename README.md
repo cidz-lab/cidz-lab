@@ -12,6 +12,7 @@ cd hammer
 
 
 *Execute target command :
+
 ping (www.target.com)
 
 
